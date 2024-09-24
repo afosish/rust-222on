@@ -1,3 +1,4 @@
+#[test]
 // Remove something to make it work
 fn main() {
     let x: i32 = 5;
