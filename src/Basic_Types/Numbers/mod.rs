@@ -10,3 +10,6 @@ mod Floating_Point_7;
 
 mod Floating_Point_8;
 mod Range_9;
+mod Range_9_2;
+mod Range_10;
+mod Computations_11;

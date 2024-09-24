@@ -1,5 +1,6 @@
 #[test]
 
+
 fn main() {
     let mut sum = 0;
     for i in -3..2 {
@@ -9,6 +10,6 @@ fn main() {
     assert!(sum == -5);
 
     for c in 'a'..='z' {
-        println!("{}",c);
+        println!("{} - {}",c as u32, 'z' as u32);
     }
 }
