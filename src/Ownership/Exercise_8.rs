@@ -5,5 +5,5 @@ fn main() {
     let _s = t.0;
 
     // Modify this line only, don't use `_s`
-    println!("{:?}", t);
+    println!("{:?}", (String::from("hello"),t.1));
 }
