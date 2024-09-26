@@ -1,8 +1,8 @@
+#[test]
 
 // Solve it in two ways
 // DON'T let `println!` work
-use std::process;
-#[test]
+
 fn main() {
     use std::process::exit;
     never_return();
@@ -12,5 +12,5 @@ fn main() {
 
 fn never_return()   {
     // Implement this function, don't modify the fn signatures
-    process::exit(1)
+    panic!("panic!");
 }
