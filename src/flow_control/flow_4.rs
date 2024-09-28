@@ -3,7 +3,7 @@
 // Fix the errors without adding or removing lines
 fn main() {
     let names = [String::from("liming"),String::from("hanmeimei")];
-    for name in names {
+    for name in &names {
         // Do something with name...
     }
 
