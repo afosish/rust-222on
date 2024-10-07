@@ -6,6 +6,7 @@ mod flow_control;
 mod pattern_match;
 mod method_functions;
 mod generics_traits;
+mod practice;
 
 fn main() {
     println!("Hello, world!");
