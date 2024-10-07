@@ -7,6 +7,7 @@ mod pattern_match;
 mod method_functions;
 mod generics_traits;
 mod practice;
+mod hackerrank;
 
 fn main() {
     println!("Hello, world!");
