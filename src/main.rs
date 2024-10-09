@@ -8,6 +8,8 @@ mod method_functions;
 mod generics_traits;
 mod practice;
 mod hackerrank;
+mod collection_types;
+
 
 fn main() {
     println!("Hello, world!");
