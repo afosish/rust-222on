@@ -9,7 +9,7 @@ mod generics_traits;
 mod practice;
 mod hackerrank;
 mod collection_types;
-
+mod type_conversion;
 
 fn main() {
     println!("Hello, world!");
