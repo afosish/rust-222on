@@ -11,6 +11,7 @@ mod hackerrank;
 mod collection_types;
 mod type_conversion;
 mod result_panic;
+mod formatted_output;
 
 fn main() {
     println!("Hello, world!");
