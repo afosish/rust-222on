@@ -1,7 +1,7 @@
-mod Variables;
-mod Basic_Types;
-mod Ownership;
-mod Compound_Types;
+mod variables;
+mod basic_types;
+mod ownership;
+mod compound_types;
 mod flow_control;
 mod pattern_match;
 mod method_functions;
