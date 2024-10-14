@@ -10,6 +10,7 @@ mod practice;
 mod hackerrank;
 mod collection_types;
 mod type_conversion;
+mod result_panic;
 
 fn main() {
     println!("Hello, world!");
