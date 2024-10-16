@@ -12,6 +12,7 @@ mod collection_types;
 mod type_conversion;
 mod result_panic;
 mod formatted_output;
+mod lifetime;
 
 fn main() {
     println!("Hello, world!");
