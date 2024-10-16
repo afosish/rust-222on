@@ -8,3 +8,6 @@ mod plus_minus;
 mod staircase;
 mod mini_max_sum;
 mod birthday_cake;
+mod kangaroo;
+mod between_two_sets;
+mod solve_me_first;
