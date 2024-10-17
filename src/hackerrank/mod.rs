@@ -12,3 +12,4 @@ mod kangaroo;
 mod between_two_sets;
 mod solve_me_first;
 mod breaking_the_records;
+mod divisible_sum_pairs;
