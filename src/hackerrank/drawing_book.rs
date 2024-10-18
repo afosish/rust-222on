@@ -20,7 +20,7 @@ fn main() {
     let stdin = io::stdin();
     let mut stdin_iterator = stdin.lock().lines();
 
-    let mut fptr = File::create(env::var("OUTPUT_PATH").unwrap()).unwrap();
+    //let mut fptr = File::create(env::var("OUTPUT_PATH").unwrap()).unwrap();
 
     let n = stdin_iterator.next().unwrap().unwrap().trim().parse::<i32>().unwrap();
 
@@ -28,5 +28,5 @@ fn main() {
 
     let result = pageCount(n, p);
 
-    writeln!(&mut fptr, "{}", result).ok();
+    //writeln!(&mut fptr, "{}", result).ok();
 }

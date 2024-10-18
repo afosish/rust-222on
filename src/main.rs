@@ -13,6 +13,7 @@ mod type_conversion;
 mod result_panic;
 mod formatted_output;
 mod lifetime;
+mod functional_programing;
 
 fn main() {
     println!("Hello, world!");
