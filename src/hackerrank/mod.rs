@@ -15,3 +15,4 @@ mod breaking_the_records;
 mod divisible_sum_pairs;
 mod bill_division;
 mod subarray_division;
+mod drawing_book;
