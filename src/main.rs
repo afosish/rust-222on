@@ -14,6 +14,7 @@ mod result_panic;
 mod formatted_output;
 mod lifetime;
 mod functional_programing;
+mod newtype;
 
 fn main() {
     println!("Hello, world!");
